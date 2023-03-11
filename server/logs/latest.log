@@ -1,0 +1,298 @@
+[05:02:01] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[05:02:01] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[05:02:01] [Server thread/INFO]: Loading properties
+[05:02:01] [Server thread/INFO]: Default game type: SURVIVAL
+[05:02:03] [Server thread/INFO]: This server is running PandaSpigot version git-PandaSpigot-85 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT) (Git: 158d845)
+[05:02:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:02:04] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[05:02:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:02:04] [Server thread/INFO]: Debug logging is disabled
+[05:02:06] [Server thread/INFO]: Data value allowed items: 
+[05:02:06] [Server thread/INFO]: Generating keypair
+[05:02:07] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[05:02:07] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[05:02:07] [Server thread/INFO]: [ProtocolSupport] Loading ProtocolSupport v4.23.dev
+[05:02:08] [Server thread/INFO]: [ProtocolSupport] Allocator: PooledByteBufAllocator(directByDefault: true), direct: true
+[05:02:08] [Server thread/INFO]: [ProtocolSupport] Compression level: 3
+[05:02:09] [Server thread/INFO]: [ProtocolSupport] Assume 1.5.2 ping delay: 100
+[05:02:09] [Server thread/INFO]: [ProtocolSupport] Assume legacy ping dealy: 200
+[05:02:09] [Server thread/INFO]: [ProtocolSupport] Login threads max count: 8, keep alive time: 60
+[05:02:09] [Server thread/WARN]: [ProtocolSupport] Native transport is enabled, this may causes issues. Disable it by setting use-native-transport in server.properties to false.
+[05:02:09] [Server thread/INFO]: [ProtocolSupport] Using injected ServerConnection
+[05:02:09] [Server thread/INFO]: [ProtocolSupport] Enabling ProtocolSupport v4.23.dev
+[05:02:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:02:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:02:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:02:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:02:09] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[05:02:09] [Server thread/INFO]: Preparing level "world"
+[05:02:10] [Server thread/INFO]: -------- World Settings For [world] --------
+[05:02:10] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[05:02:10] [Server thread/INFO]: Clear tick list: false
+[05:02:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:02:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:02:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:02:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:02:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:02:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:02:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:02:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:02:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:02:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:02:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[05:02:10] [Server thread/INFO]: Anti X-Ray: true
+[05:02:10] [Server thread/INFO]: 	Engine Mode: 1
+[05:02:10] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[05:02:10] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[05:02:10] [Server thread/INFO]: Mob Spawn Range: 4
+[05:02:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:02:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[05:02:10] [Server thread/INFO]: Random Lighting Updates: false
+[05:02:10] [Server thread/INFO]: Structure Info Saving: true
+[05:02:10] [Server thread/INFO]: Sending up to 10 chunks per packet
+[05:02:10] [Server thread/INFO]: Max Entity Collisions: 8
+[05:02:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[05:02:10] [Server thread/INFO]: Max TNT Explosions: 100
+[05:02:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:02:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:02:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:02:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[05:02:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:02:10] [Server thread/INFO]: View Distance: 10
+[05:02:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:02:10] [Server thread/INFO]: -------- World Settings For [world] --------
+[05:02:10] [Server thread/INFO]: Keep spawn chunk loaded: true
+[05:02:10] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[05:02:10] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[05:02:10] [Server thread/INFO]: World async lighting: false
+[05:02:10] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[05:02:10] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[05:02:10] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[05:02:10] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[05:02:10] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[05:02:10] [Server thread/INFO]: Fix TNT cannons: false
+[05:02:10] [Server thread/INFO]: Water over lava flow speed: 5
+[05:02:10] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[05:02:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[05:02:10] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[05:02:11] [Server thread/INFO]: Clear tick list: false
+[05:02:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:02:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:02:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[05:02:11] [Server thread/INFO]: Anti X-Ray: true
+[05:02:11] [Server thread/INFO]: 	Engine Mode: 1
+[05:02:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[05:02:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[05:02:11] [Server thread/INFO]: Mob Spawn Range: 4
+[05:02:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:02:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[05:02:11] [Server thread/INFO]: Random Lighting Updates: false
+[05:02:11] [Server thread/INFO]: Structure Info Saving: true
+[05:02:11] [Server thread/INFO]: Sending up to 10 chunks per packet
+[05:02:11] [Server thread/INFO]: Max Entity Collisions: 8
+[05:02:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[05:02:11] [Server thread/INFO]: Max TNT Explosions: 100
+[05:02:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:02:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:02:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:02:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[05:02:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:02:11] [Server thread/INFO]: View Distance: 10
+[05:02:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:02:11] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[05:02:11] [Server thread/INFO]: Keep spawn chunk loaded: true
+[05:02:11] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[05:02:11] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[05:02:11] [Server thread/INFO]: World async lighting: false
+[05:02:11] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[05:02:11] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[05:02:11] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[05:02:11] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[05:02:11] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[05:02:11] [Server thread/INFO]: Fix TNT cannons: false
+[05:02:11] [Server thread/INFO]: Water over lava flow speed: 5
+[05:02:11] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[05:02:11] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[05:02:11] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[05:02:11] [Server thread/INFO]: Clear tick list: false
+[05:02:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:02:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:02:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:02:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[05:02:11] [Server thread/INFO]: Anti X-Ray: true
+[05:02:11] [Server thread/INFO]: 	Engine Mode: 1
+[05:02:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[05:02:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[05:02:11] [Server thread/INFO]: Mob Spawn Range: 4
+[05:02:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:02:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[05:02:11] [Server thread/INFO]: Random Lighting Updates: false
+[05:02:11] [Server thread/INFO]: Structure Info Saving: true
+[05:02:11] [Server thread/INFO]: Sending up to 10 chunks per packet
+[05:02:11] [Server thread/INFO]: Max Entity Collisions: 8
+[05:02:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[05:02:11] [Server thread/INFO]: Max TNT Explosions: 100
+[05:02:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:02:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:02:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:02:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[05:02:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:02:11] [Server thread/INFO]: View Distance: 10
+[05:02:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:02:12] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[05:02:12] [Server thread/INFO]: Keep spawn chunk loaded: true
+[05:02:12] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[05:02:12] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[05:02:12] [Server thread/INFO]: World async lighting: false
+[05:02:12] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[05:02:12] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[05:02:12] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[05:02:12] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[05:02:12] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[05:02:12] [Server thread/INFO]: Fix TNT cannons: false
+[05:02:12] [Server thread/INFO]: Water over lava flow speed: 5
+[05:02:12] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[05:02:12] [Server thread/INFO]: Preparing start region for level 0 (Seed: 858827381333177539)
+[05:02:13] [Server thread/INFO]: Preparing spawn area: 1%
+[05:02:14] [Server thread/INFO]: Preparing spawn area: 10%
+[05:02:15] [Server thread/INFO]: Preparing spawn area: 29%
+[05:02:16] [Server thread/INFO]: Preparing spawn area: 39%
+[05:02:17] [Server thread/INFO]: Preparing spawn area: 59%
+[05:02:18] [Server thread/INFO]: Preparing spawn area: 86%
+[05:02:19] [Server thread/INFO]: Preparing start region for level 1 (Seed: 858827381333177539)
+[05:02:20] [Server thread/INFO]: Preparing spawn area: 4%
+[05:02:21] [Server thread/INFO]: Preparing spawn area: 6%
+[05:02:22] [Server thread/INFO]: Preparing spawn area: 9%
+[05:02:23] [Server thread/INFO]: Preparing spawn area: 12%
+[05:02:24] [Server thread/INFO]: Preparing spawn area: 17%
+[05:02:25] [Server thread/INFO]: Preparing spawn area: 21%
+[05:02:26] [Server thread/INFO]: Preparing spawn area: 27%
+[05:02:27] [Server thread/INFO]: Preparing spawn area: 53%
+[05:02:28] [Server thread/INFO]: Preparing spawn area: 83%
+[05:02:28] [Server thread/INFO]: Preparing start region for level 2 (Seed: 858827381333177539)
+[05:02:30] [Server thread/INFO]: Preparing spawn area: 52%
+[05:02:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:02:31] [Server thread/INFO]: Done (21.559s)! For help, type "help" or "?"
+[05:02:31] [Server thread/INFO]: Using epoll channel type
+[05:02:33] [Server thread/INFO]: Timings Reset
+[05:02:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31122ms or 622 ticks behind
+[05:21:33] [LoginProcessingThread/INFO]: UUID of player AlexAsdad is 6e2a2353-c304-30fe-a3a7-43044ed80f91
+[05:21:34] [Server thread/INFO]: AlexAsdad[<ip address withheld>] logged in with entity id 59 at ([world]-239.5, 69.0, 191.5)
+[05:22:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6696ms or 133 ticks behind
+[05:22:28] [Server thread/INFO]: AlexAsdad lost connection: Disconnected
+[05:22:28] [Server thread/INFO]: AlexAsdad left the game.
+[05:24:41] [LoginProcessingThread/INFO]: UUID of player AlexAsdad00adasd is 6d464c7e-eca5-3d25-84e8-59d50de24bf9
+[05:24:41] [Server thread/INFO]: AlexAsdad00adasd[<ip address withheld>] logged in with entity id 280 at ([world]-242.5, 70.0, 201.5)
+[05:25:56] [Server thread/INFO]: AlexAsdad00adasd lost connection: Disconnected
+[05:25:56] [Server thread/INFO]: AlexAsdad00adasd left the game.
+[05:32:58] [LoginProcessingThread/INFO]: UUID of player Sunset is 6f913718-fe4e-3e9b-bad8-d11021edcd26
+[05:32:58] [Server thread/INFO]: Sunset[<ip address withheld>] logged in with entity id 432 at ([world]-168.94614370540845, 66.0, 344.91669599919277)
+[05:33:43] [Server thread/INFO]: Sunset lost connection: Disconnected
+[05:33:43] [Server thread/INFO]: Sunset left the game.
+[05:51:34] [LoginProcessingThread/INFO]: UUID of player duck is ef663bb2-03f1-3c79-83a9-999c02d31c98
+[05:51:34] [Server thread/INFO]: duck[<ip address withheld>] logged in with entity id 526 at ([world]-247.20443461909213, 70.0, 202.80266812867677)
+[05:51:39] [Server thread/INFO]: duck lost connection: Disconnected
+[05:51:39] [Server thread/INFO]: duck left the game.
+[06:28:31] [LoginProcessingThread/INFO]: UUID of player Sunset is 6f913718-fe4e-3e9b-bad8-d11021edcd26
+[06:28:31] [Server thread/INFO]: Sunset[<ip address withheld>] logged in with entity id 619 at ([world]-194.82954276133592, 65.0, 315.5143295975862)
+[06:29:27] [Server thread/INFO]: Sunset drowned
+[06:30:41] [Server thread/INFO]: Sunset fell from a high place
+[06:30:51] [Server thread/INFO]: Sunset lost connection: Disconnected
+[06:30:51] [Server thread/INFO]: Sunset left the game.
+[08:12:58] [LoginProcessingThread/INFO]: UUID of player Sunset is 6f913718-fe4e-3e9b-bad8-d11021edcd26
+[08:12:58] [Server thread/INFO]: Sunset[<ip address withheld>] logged in with entity id 803 at ([world]-242.1374999032774, 71.0, 190.77224646594095)
+[08:13:16] [Server thread/INFO]: Sunset lost connection: Disconnected
+[08:13:16] [Server thread/INFO]: Sunset left the game.
+[11:16:46] [LoginProcessingThread/INFO]: UUID of player undefined is a39395c9-3089-3ab9-b22a-459624e77601
+[11:16:46] [Server thread/INFO]: undefined[<ip address withheld>] logged in with entity id 812 at ([world]-250.5, 69.0, 192.5)
+[11:16:55] [Server thread/INFO]: undefined lost connection: Disconnected
+[11:16:55] [Server thread/INFO]: undefined left the game.
+[11:20:02] [LoginProcessingThread/INFO]: UUID of player Kurosuke_ is 2bb26507-6a75-36d2-8312-06a4fc838075
+[11:20:02] [Server thread/INFO]: Kurosuke_[<ip address withheld>] logged in with entity id 817 at ([world]-240.88433901856345, 70.0, 191.9973192886378)
+[11:20:07] [Server thread/INFO]: Kurosuke_ issued server command: /
+[11:20:13] [Server thread/INFO]: Kurosuke_ lost connection: Disconnected
+[11:20:13] [Server thread/INFO]: Kurosuke_ left the game.
+[11:32:22] [LoginProcessingThread/INFO]: UUID of player ProGamer is e0b463d9-3cc3-336d-a513-0a3476ae6831
+[11:32:22] [Server thread/INFO]: ProGamer[<ip address withheld>] logged in with entity id 824 at ([world]-252.30000001192093, 68.0, 213.1133542394964)
+[11:32:36] [Server thread/INFO]: ProGamer lost connection: Disconnected
+[11:32:36] [Server thread/INFO]: ProGamer left the game.
+[11:32:48] [LoginProcessingThread/INFO]: UUID of player ProGamer is e0b463d9-3cc3-336d-a513-0a3476ae6831
+[11:32:48] [Server thread/INFO]: ProGamer[<ip address withheld>] logged in with entity id 830 at ([world]-252.30000001192093, 68.0, 213.1133542394964)
+[11:33:03] [Server thread/INFO]: ProGamer lost connection: Disconnected
+[11:33:03] [Server thread/INFO]: ProGamer left the game.
+[11:33:14] [LoginProcessingThread/INFO]: UUID of player ProGamer is e0b463d9-3cc3-336d-a513-0a3476ae6831
+[11:33:14] [Server thread/INFO]: ProGamer[<ip address withheld>] logged in with entity id 849 at ([world]-252.30000001192093, 68.0, 213.1133542394964)
+[11:33:28] [Server thread/INFO]: ProGamer lost connection: Disconnected
+[11:33:28] [Server thread/INFO]: ProGamer left the game.
+[11:36:58] [LoginProcessingThread/INFO]: UUID of player ProGamer is e0b463d9-3cc3-336d-a513-0a3476ae6831
+[11:36:59] [Server thread/INFO]: ProGamer[<ip address withheld>] logged in with entity id 859 at ([world]-252.2802480860957, 59.0, 209.30000001192093)
+[11:37:25] [Server thread/INFO]: ProGamer lost connection: Disconnected
+[11:37:26] [Server thread/INFO]: ProGamer left the game.
+[11:37:45] [LoginProcessingThread/INFO]: UUID of player ProGamer is e0b463d9-3cc3-336d-a513-0a3476ae6831
+[11:37:45] [Server thread/INFO]: ProGamer[<ip address withheld>] logged in with entity id 869 at ([world]-249.35393467475288, 59.0, 209.46260521076888)
+[11:37:59] [Server thread/INFO]: ProGamer lost connection: Disconnected
+[11:37:59] [Server thread/INFO]: ProGamer left the game.
+[11:42:57] [LoginProcessingThread/INFO]: UUID of player ProGamer is e0b463d9-3cc3-336d-a513-0a3476ae6831
+[11:42:57] [Server thread/INFO]: ProGamer[<ip address withheld>] logged in with entity id 885 at ([world]-248.35221352325982, 62.0, 207.67611752568982)
+[11:43:11] [Server thread/INFO]: ProGamer lost connection: Disconnected
+[11:43:12] [Server thread/INFO]: ProGamer left the game.
+[11:43:17] [LoginProcessingThread/INFO]: UUID of player ProGamer is e0b463d9-3cc3-336d-a513-0a3476ae6831
+[11:43:17] [Server thread/INFO]: ProGamer[<ip address withheld>] logged in with entity id 903 at ([world]-248.35221352325982, 62.0, 207.67611752568982)
+[11:43:31] [Server thread/INFO]: ProGamer lost connection: Disconnected
+[11:43:32] [Server thread/INFO]: ProGamer left the game.
+[11:43:36] [LoginProcessingThread/INFO]: UUID of player ProGamer is e0b463d9-3cc3-336d-a513-0a3476ae6831
+[11:43:36] [Server thread/INFO]: ProGamer[<ip address withheld>] logged in with entity id 910 at ([world]-246.64667285206224, 62.0, 208.5841789555157)
+[11:43:50] [Server thread/INFO]: ProGamer lost connection: Disconnected
+[11:43:50] [Server thread/INFO]: ProGamer left the game.
+[11:44:15] [LoginProcessingThread/INFO]: UUID of player ProGamer is e0b463d9-3cc3-336d-a513-0a3476ae6831
+[11:44:15] [Server thread/INFO]: ProGamer[<ip address withheld>] logged in with entity id 915 at ([world]-246.64667285206224, 62.0, 208.5841789555157)
+[11:44:29] [Server thread/INFO]: ProGamer lost connection: Disconnected
+[11:44:29] [Server thread/INFO]: ProGamer left the game.
+[12:51:57] [LoginProcessingThread/INFO]: UUID of player eme is ea179600-50e0-3990-9ef6-b87d6585844f
+[12:51:57] [Server thread/INFO]: eme[<ip address withheld>] logged in with entity id 929 at ([world]-229.37252140612557, 62.22307022825813, -69.20402045203916)
+[12:52:12] [Server thread/INFO]: eme lost connection: Disconnected
+[12:52:12] [Server thread/INFO]: eme left the game.
+[13:13:18] [LoginProcessingThread/INFO]: UUID of player Sunset is 6f913718-fe4e-3e9b-bad8-d11021edcd26
+[13:13:18] [Server thread/INFO]: Sunset[<ip address withheld>] logged in with entity id 987 at ([world]-243.5895859018484, 71.0, 177.50230093794343)
+[13:13:42] [Server thread/INFO]: Sunset lost connection: Disconnected
+[13:13:42] [Server thread/INFO]: Sunset left the game.
+[13:33:29] [LoginProcessingThread/INFO]: UUID of player arow10237 is b1e540ac-e858-3000-8cf7-1f09d42db417
+[13:33:29] [Server thread/INFO]: arow10237[<ip address withheld>] logged in with entity id 1066 at ([world]-209.66124619495872, 60.96389449697658, 127.7930800867202)
+[13:34:24] [Server thread/INFO]: arow10237 issued server command: /gamemode c
+[13:34:34] [Server thread/INFO]: arow10237 has just earned the achievement [Taking Inventory]
+[13:34:48] [Server thread/INFO]: arow10237 lost connection: Disconnected
+[13:34:48] [Server thread/INFO]: arow10237 left the game.
+[14:46:42] [LoginProcessingThread/INFO]: UUID of player Puro is 618a7d33-acb1-38f4-bde4-2d74136e7881
+[14:46:42] [Server thread/INFO]: Puro[<ip address withheld>] logged in with entity id 1163 at ([world]-247.64686638108063, 71.0, 183.71627775062623)
+[14:50:30] [Server thread/INFO]: Puro lost connection: Disconnected
+[14:50:30] [Server thread/INFO]: Puro left the game.
+[14:54:36] [LoginProcessingThread/INFO]: UUID of player Puro is 618a7d33-acb1-38f4-bde4-2d74136e7881
+[14:54:38] [Server thread/INFO]: Puro[<ip address withheld>] logged in with entity id 1474 at ([world]-173.7635109563193, 65.0, 351.5685203927164)
+[14:54:51] [Server thread/INFO]: Puro lost connection: Disconnected
+[14:54:51] [Server thread/INFO]: Puro left the game.
+[18:05:37] [LoginProcessingThread/INFO]: UUID of player ghastly303x is 8e9bee47-67f5-3c56-a7e9-b80b8db5187e
+[18:05:37] [Server thread/INFO]: ghastly303x[<ip address withheld>] logged in with entity id 1506 at ([world]-243.5, 69.0, 194.5)
+[18:05:52] [Server thread/INFO]: ghastly303x lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[18:05:52] [Server thread/INFO]: ghastly303x left the game.
+[18:05:55] [LoginProcessingThread/INFO]: UUID of player ghastly303x is 8e9bee47-67f5-3c56-a7e9-b80b8db5187e
+[18:05:55] [Server thread/INFO]: ghastly303x[<ip address withheld>] logged in with entity id 1577 at ([world]-235.8468516196391, 70.0, 189.37421625593964)
+[18:06:03] [Server thread/WARN]: ghastly303x moved too quickly! 6.487221679713372,-1.0,9.90933358969653 (6.487221679713372, -1.0, 9.90933358969653)
+[18:06:50] [Server thread/INFO]: ghastly303x issued server command: /gamemode c
+[18:07:02] [Server thread/INFO]: ghastly303x has just earned the achievement [Taking Inventory]
+[18:07:24] [Server thread/INFO]: ghastly303x lost connection: Disconnected
+[18:07:24] [Server thread/INFO]: ghastly303x left the game.

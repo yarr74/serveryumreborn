@@ -1,0 +1,13 @@
+05:01:41 [INFO] Enabled BungeeCord version unknown
+05:01:42 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+05:01:42 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+05:01:43 [INFO] Listening websockets on localhost/127.0.0.1:8082
+05:01:44 [INFO] Server bans.txt changed, it will be reloaded automatically
+05:01:44 [INFO] Reload complete
+05:01:44 [INFO] Listening on /127.11.0.1:33715
+14:46:41 [INFO] [Puro] <-> InitialHandler has connected
+14:46:41 [INFO] Player 'Puro' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:46:41 [INFO] Player 'Puro' [/127.0.0.1] is using a client at: immortalcrafts1-net.fathernotfound.repl.co
+14:46:41 [INFO] [Puro] <-> ServerConnector [server] has connected
+14:50:30 [INFO] [Puro] -> UpstreamBridge has disconnected
+14:50:30 [INFO] [Puro] <-> DownstreamBridge <-> [server] has disconnected
